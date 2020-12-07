@@ -20,7 +20,7 @@ Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it
 ### **Video Tutorial**
 <p align="center">
   <a href="http://www.youtube.com/watch?v=xaDz3rxLu4I">
-    <img alt="Video Tutorial" src="http://img.youtube.com/vi/xaDz3rxLu4I/maxresdefault.jpg" height=480>
+    <img alt="Video Tutorial" src="http://img.youtube.com/vi/xaDz3rxLu4I/maxresdefault.jpg">
   </a>
 </p>
 
