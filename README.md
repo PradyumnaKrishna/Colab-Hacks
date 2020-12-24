@@ -11,18 +11,8 @@ Here is a brief about them all:
 Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it with graphic user interface which can be used in many ways. It give you high end VM for maximum 12 hours which boost your productivity and you can perform heavy task without any worries.
 
 ### **Some Points:**
- - Requires an **NGROK** account to configure tunnel for SSH
- - Don't use username : `root`
- - **SSH** to Colab Instance using command provided command and
- - Authenticate Through [Remote Desktop Headless](http://remotedesktop.google.com/headless)<br> Don't Download any file simply proceed directly to authenticate button. When you got a command copy and paste it to SSH terminal and complete the process by setting up a pin.
- - Now, Visit Remote Desktop at http://remotedesktop.google.com/headless to access your instance
-
-### **Video Tutorial**
-<p align="center">
-  <a href="http://www.youtube.com/watch?v=xaDz3rxLu4I">
-    <img alt="Video Tutorial" src="http://img.youtube.com/vi/xaDz3rxLu4I/maxresdefault.jpg" height=480>
-  </a>
-</p>
+ - Don't use username `root`
+ - Enter Remote Desktop Headless code
 
 <br />
 
