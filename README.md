@@ -19,12 +19,8 @@ Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it
 ## [Colab SSH](Colab%20SSH/Colab%20SSH.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][SSH Notebook] [![SSH Issues][SSH Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20SSH)
 Colab SSH is used to get **SSH connection** to Google Colaboratory which gives you bash shell and you can use it for testing script or any other purpose. Making a script to configure Colab instance make it more productive.
 
-### **Some Points:**
- - Requires an **NGROK** account to execute this notebook
- - Enter the Required ngrok token when asked
- - Run the command after sucessfully executing the Notbook
+### **Deprecated: Use Colab RDP Instead**
 
-       ssh root@0.tcp.ngrok.io -p <givenport>
 <br />
 
 ## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
