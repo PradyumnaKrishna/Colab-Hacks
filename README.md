@@ -16,10 +16,10 @@ Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it
 
 <br />
 
-## [Colab SSH](Colab%20SSH/Colab%20SSH.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][SSH Notebook] [![SSH Issues][SSH Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20SSH)
-Colab SSH is used to get **SSH connection** to Google Colaboratory which gives you bash shell and you can use it for testing script or any other purpose. Making a script to configure Colab instance make it more productive.
+## [Code Server](Code%20Server/Code%20Server.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Code Notebook] [![Code Issues][Code Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Code%Server)
+Code Server is used to launch **VSCode** on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code. Making a script to configure VSCode makes it more productive.
 
-### **Deprecated: Use Colab RDP Instead**
+### **Going to add more functionality soon**
 
 <br />
 
@@ -49,8 +49,8 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
 [RDP Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
 [RDP Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
-[SSH Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20SSH?label=Issues
-[SSH Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20SSH/Colab%20SSH.ipynb
+[Code Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
+[Code Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
 [Torrent Issues]:       https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
 [Torrent Notebook]:     https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
 [Warning]:              https://img.shields.io/badge/Warning-red
