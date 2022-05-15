@@ -20,17 +20,28 @@ Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't ne
 
 <br />
 
-<details>
-<summary><b>Why are hardware resources such as T4 GPUs not available to me?</b></summary>
-The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
-Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
+### Colab Threatens to Ban, Why?
 
-<sub>Source: https://research.google.com/colaboratory/faq.html</sub>
-</details>
+**Recent changes in Colaboratory T&C prohibits the following actions and could result in ban from colab[^1].**
+
+- file hosting, media serving, or other web service offerings not related to interactive compute with Colab
+- downloading torrents or engaging in peer-to-peer file-sharing
+- using a remote desktop or SSH
+- connecting to remote proxies
+- mining cryptocurrency
+- running denial-of-service attacks
+- password cracking
+- using multiple accounts to work around access or resource usage restrictions
+
+The changes are made because resources in Colab are prioritized for interactive use cases.
+
+This means all the notebooks present in this repository are prohibited and use with your own risk. To discuss, follow up on issue [#91](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/91).
+
 
 ### Support
 1.  **Star this repository**
-2.  **Promote this repository**
+2.  **Promote this repositThe changes are made because resources in Colab are prioritized for interactive use cases.
+ory**
 3.  **Contribute to this repository**
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
@@ -41,3 +52,4 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 [Code Notebook]:        https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
 [Torrent Issues]:       https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
 [Torrent Notebook]:     https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
+[^1]:                   https://research.google.com/colaboratory/faq.html#limitations-and-restrictions
