@@ -40,8 +40,7 @@ This means all the notebooks present in this repository are prohibited and use w
 
 ### Support
 1.  **Star this repository**
-2.  **Promote this repositThe changes are made because resources in Colab are prioritized for interactive use cases.
-ory**
+2.  **Promote this repository**
 3.  **Contribute to this repository**
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
